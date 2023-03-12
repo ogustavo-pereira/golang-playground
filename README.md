@@ -8,9 +8,4 @@ O formato deste repositório esta ordenado por complexidade onde #00 é o mais s
 
 Dentro da pasta contem os códigos e um readme explicativo.
 
-## Veja mais
-
-- [LearnBr | Golang](https://github.com/learnbr/go)
-- [go.dev](https://go.dev/)
-
 
